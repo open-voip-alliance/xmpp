@@ -1,4 +1,6 @@
 # XMPP
+<a href='https://compliance.conversations.im/server/openvoipalliance.org'><img src='https://compliance.conversations.im/badge/openvoipalliance.org'></a> 
+
 This repository contains configuration and guides regarding the use of XMPP for chat.
 
 # Setup
