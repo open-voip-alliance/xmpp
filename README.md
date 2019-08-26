@@ -9,3 +9,4 @@ We are currently running an [ejabberd](https://github.com/processone/ejabberd/) 
 # Guides
 * [Connect using our web client](guides/web_client.md)
 * [Connect using your own XMPP client](guides/xmpp_client.md)
+* [Joining group chats](guides/join_channels.md)
